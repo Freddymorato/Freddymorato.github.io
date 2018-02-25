@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "'Why software development? Why NOT??!!!'."
-date:       2018-02-25 00:42:58 +0000
+date:       2018-02-24 19:42:59 -0500
 permalink:  why_software_development_why_not
 ---
 
